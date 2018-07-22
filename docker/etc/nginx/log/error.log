@@ -1,0 +1,18 @@
+2018/07/22 18:34:35 [emerg] 8#8: unexpected ";" in /etc/nginx/conf.d/default.conf:12
+2018/07/22 18:34:37 [emerg] 8#8: unexpected ";" in /etc/nginx/conf.d/default.conf:12
+2018/07/22 18:34:38 [emerg] 7#7: unexpected ";" in /etc/nginx/conf.d/default.conf:12
+2018/07/22 18:34:41 [emerg] 7#7: unexpected ";" in /etc/nginx/conf.d/default.conf:12
+2018/07/22 18:34:42 [emerg] 8#8: unexpected ";" in /etc/nginx/conf.d/default.conf:12
+2018/07/22 18:34:44 [emerg] 7#7: unexpected ";" in /etc/nginx/conf.d/default.conf:12
+2018/07/22 18:34:48 [emerg] 8#8: unexpected ";" in /etc/nginx/conf.d/default.conf:12
+2018/07/22 18:34:55 [emerg] 7#7: unexpected ";" in /etc/nginx/conf.d/default.conf:12
+2018/07/22 18:35:09 [emerg] 7#7: unexpected ";" in /etc/nginx/conf.d/default.conf:12
+2018/07/22 18:35:35 [emerg] 7#7: invalid number of arguments in "fastcgi_pass" directive in /etc/nginx/conf.d/default.conf:21
+2018/07/22 18:36:06 [emerg] 7#7: invalid number of arguments in "fastcgi_pass" directive in /etc/nginx/conf.d/default.conf:21
+2018/07/22 18:36:10 [emerg] 7#7: invalid number of arguments in "fastcgi_pass" directive in /etc/nginx/conf.d/default.conf:21
+2018/07/22 18:36:11 [emerg] 7#7: invalid number of arguments in "fastcgi_pass" directive in /etc/nginx/conf.d/default.conf:21
+2018/07/22 18:36:12 [emerg] 8#8: invalid number of arguments in "fastcgi_pass" directive in /etc/nginx/conf.d/default.conf:21
+2018/07/22 18:36:13 [emerg] 8#8: invalid number of arguments in "fastcgi_pass" directive in /etc/nginx/conf.d/default.conf:21
+2018/07/22 18:36:15 [emerg] 7#7: invalid number of arguments in "fastcgi_pass" directive in /etc/nginx/conf.d/default.conf:21
+2018/07/22 18:36:19 [emerg] 7#7: invalid number of arguments in "fastcgi_pass" directive in /etc/nginx/conf.d/default.conf:21
+2018/07/22 18:36:32 [emerg] 7#7: invalid number of arguments in "fastcgi_pass" directive in /etc/nginx/conf.d/default.conf:21
